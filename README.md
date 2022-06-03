@@ -1,27 +1,25 @@
-# PokerPlanning
+# **CHALLENGE #1** Poker Planning
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
+![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=challenge-poker-planning)
 
-## Development server
+[Poker Planning app](https://challenge-poker-planning.vercel.app/)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## **Hashtags**
 
-## Code scaffolding
+| Hashtags               |
+| ---------------------- |
+| #programming-challenge |
+| #angular               |
+| #angularprogramming    |
+| #codingdays            |
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Description
 
-## Build
+Soon
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## **Technology**
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+**App type:** web app <br/>
+**Framework:** Angular 2+ <br/>
+**Deployment:** Vercel <br/>
+**Deployment - badge support:** https://github.com/therealsujitk/vercel-badge/blob/main/README.md
