@@ -6,8 +6,8 @@
     "ng": "nx",
     "postinstall": "node ./decorate-angular-cli.js && ngcc --properties es2020 browser module main",
     "start": "nx run poker-planning:serve:development",
-    "build": "nx build poker-planning",
-    "test": "nx test"
+    "build": "nx build poker-planning:build:development",
+    "test": "nx test poker-planning"
   },
   "private": true,
   "dependencies": {
